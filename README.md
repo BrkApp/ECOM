@@ -4,6 +4,7 @@ Boite a outils complete pour lancer un business e-commerce rentable sur Meta Ads
 cible : **femmes 45-70 ans francophones**.
 
 > Tu pars de zero ? Lis [`guides/setup_a_z.md`](guides/setup_a_z.md) en premier.
+> **Budget serre (500 EUR) + dropshipping ?** → [`guides/dropshipping_budget_500.md`](guides/dropshipping_budget_500.md)
 
 ---
 
@@ -14,7 +15,8 @@ ECOM/
 ├── STRATEGY_FEMMES_45PLUS.md      → strategie produits + angles + scaling
 ├── README.md                       → ce fichier
 ├── guides/
-│   └── setup_a_z.md                → setup complet de A a Z (10 jours)
+│   ├── setup_a_z.md                → setup complet de A a Z (budget 1500 EUR+)
+│   └── dropshipping_budget_500.md  → plan condense pour 500 EUR + dropship
 ├── tools/                          → scripts Python (zero dependance)
 │   ├── roas_calculator.py          → calcule ton CPA max & ROAS break-even
 │   ├── ad_library_scraper.py       → trouve les ads winners sur Meta
