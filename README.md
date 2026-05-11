@@ -5,6 +5,7 @@ cible : **femmes 45-70 ans francophones**.
 
 > Tu pars de zero ? Lis [`guides/setup_a_z.md`](guides/setup_a_z.md) en premier.
 > **Budget serre (500 EUR) + dropshipping ?** → [`guides/dropshipping_budget_500.md`](guides/dropshipping_budget_500.md)
+> **One-shot 500 EUR sur patchs anti-douleur dos ?** → [`guides/playbook_patch_dos_500eur.md`](guides/playbook_patch_dos_500eur.md)
 
 ---
 
