@@ -6,6 +6,7 @@ cible : **femmes 45-70 ans francophones**.
 > Tu pars de zero ? Lis [`guides/setup_a_z.md`](guides/setup_a_z.md) en premier.
 > **Budget serre (500 EUR) + dropshipping ?** → [`guides/dropshipping_budget_500.md`](guides/dropshipping_budget_500.md)
 > **One-shot 500 EUR sur patchs anti-douleur dos ?** → [`guides/playbook_patch_dos_500eur.md`](guides/playbook_patch_dos_500eur.md)
+> **Recurrent MRR 500 EUR (subscription collagene 45+) ?** → [`guides/playbook_subscription_collagene_500eur.md`](guides/playbook_subscription_collagene_500eur.md) ⭐ recommande pour profil "no-code + patience + recurrent"
 
 ---
 
@@ -16,8 +17,10 @@ ECOM/
 ├── STRATEGY_FEMMES_45PLUS.md      → strategie produits + angles + scaling
 ├── README.md                       → ce fichier
 ├── guides/
-│   ├── setup_a_z.md                → setup complet de A a Z (budget 1500 EUR+)
-│   └── dropshipping_budget_500.md  → plan condense pour 500 EUR + dropship
+│   ├── setup_a_z.md                            → setup complet A a Z (1500 EUR+)
+│   ├── dropshipping_budget_500.md              → dropship one-shot 500 EUR
+│   ├── playbook_patch_dos_500eur.md            → playbook patchs dos 500 EUR
+│   └── playbook_subscription_collagene_500eur.md → MRR collagene 500 EUR (recommande recurrent)
 ├── tools/                          → scripts Python (zero dependance)
 │   ├── roas_calculator.py          → calcule ton CPA max & ROAS break-even
 │   ├── ad_library_scraper.py       → trouve les ads winners sur Meta
